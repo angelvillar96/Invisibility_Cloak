@@ -1,8 +1,6 @@
 # Invisibility Cloak
 ### By Angel Villar Corrales
 
-![Recordit GIF](gif1.gif) 
-### View [Full video](https://www.youtube.com/watch?v=LcoxbDqEf3A)
 
 This project uses image processing techniques in order to simulate an invisibility cloak like the on in the movie "Harry Potter and the Philosopher's Stone"
 
@@ -31,7 +29,19 @@ This project uses image processing techniques in order to simulate an invisibili
 > - InivisibleCloak.ipynb: Jupyter notebook that explains how the code works
 > - cloakLib.py: python file that runs the algorithm in real life with a video
 
-![Recordit GIF](gif2.gif) 
+
+##
+
+> As shown in the following GIF, the performance still has some flaws
+> On the one hand, the performance still has some flaws:
+> - The "Invisible Area" looks brighter than the background
+> - As the blanket used for the cloak is not homogeneous, some areas and edges are not smoothly detected
+
+> On the other hand: 
+> - Complex backgrounds do not significantly make the performance worse
+> - The results obtained are still meaningful and satisfactory
+
+![Recordit GIF](cut4GitHub.gif) 
 
 
 
