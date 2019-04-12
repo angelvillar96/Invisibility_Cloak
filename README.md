@@ -1,50 +1,31 @@
-<<<<<<< HEAD
 # Invisibility Cloak
+### By Angel Villar Corrales
 
 ![Recordit GIF](gif1.gif) 
 ### View [Full video](https://www.youtube.com/watch?v=LcoxbDqEf3A)
 
-
-Being a harry potter fan I always had a childhood fantasy of using an invisibility cloak. Well it turns out that 
-using simple image processing tricks I can now actually fulfil my childhood fantasy. 
-This [code](AR_invisibility_Cloak.py) turns a `red` colour cloth into an invisibility cloak.
-
->- It's a fun application which you will enjoy using.
->- You can learn some key functions of opencv from this project. 
->- Refer a detailed [Tutorial](Tutorial.md) explaining the [code](AR_invisibility_Cloak.py).
-
----
-
+This project uses image processing techniques in order to simulate an invisibility cloak like the on in the movie "Harry Potter and the Philosopher's Stone"
 
 
 ## Installation
 
 #### Clone
 
-- Clone this repo to your local machine using `https://github.com/kaustubh-sadekar/Invisibility_Cloak.git`
+- Clone this repository by running 'https://gitlab.com/angelvillar96/invisible-cloak.git'
 
-#### Setup/Requirements
+#### Requirements
 
-> The code is written in Python (`Python3`)
-> You need the following libraries
+> The code is written in Python 3.7
+> The follwing libraries are needed to run the code
 > - numpy
-> - OpenCV
-> - time
+> - scipy
+> - Jupyter
+> - matplotlib
+> - OpenCV (cv2)
+> - time, os and sys
 ---
 
 ##  This is how it works
 ![Recordit GIF](gif2.gif) 
 ### Refer the [Tutorial](Tutorial.md) for detailed explanation of the code.
 
-
-
-## License
-
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-
-- **[MIT license](http://opensource.org/licenses/mit-license.php)**
-=======
-# Invisible Cloak
-
-This project uses regular image processing techniques in order to emulate the invisble cloak from the movie Harry Potter and the Philosopher's Stone
->>>>>>> 7f707484e618e2f5368a4b2c8df26b04badce6a8
