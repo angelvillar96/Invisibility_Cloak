@@ -7,11 +7,11 @@
 This project uses image processing techniques in order to simulate an invisibility cloak like the on in the movie "Harry Potter and the Philosopher's Stone"
 
 
-## Installation
+## Get this repository
 
 #### Clone
 
-- Clone this repository by running 'https://gitlab.com/angelvillar96/invisible-cloak.git'
+> Clone this repository by running 'https://gitlab.com/angelvillar96/invisible-cloak.git'
 
 #### Requirements
 
@@ -25,7 +25,14 @@ This project uses image processing techniques in order to simulate an invisibili
 > - time, os and sys
 ---
 
-##  This is how it works
-![Recordit GIF](gif2.gif) 
-### Refer the [Tutorial](Tutorial.md) for detailed explanation of the code.
+##  Contents
 
+> This repository contains the following files:
+> - InivisibleCloak.ipynb: Jupyter notebook that explains how the code works
+> - cloakLib.py: python file that runs the algorithm in real life with a video
+
+![Recordit GIF](gif2.gif) 
+
+
+
+ 
